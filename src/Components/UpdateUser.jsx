@@ -76,9 +76,9 @@ const UpdateUser = () => {
             </div>
 
             <div>
-              <label>Details</label>
+              <label>Price</label>
               <br />
-              <input type="text" name="details" placeholder="Details" />
+              <input type="number" name="price" placeholder="Price" />
             </div>
             <div className="">
                 <label >Photo</label><br />
