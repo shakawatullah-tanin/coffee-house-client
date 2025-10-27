@@ -1,1 +1,20 @@
 @import "tailwindcss";
+
+.update{
+
+    background-color: rgba(244, 243, 240, 1);
+    width: 1000px;
+    border-radius: 16px;
+}
+.update div input{
+    
+    background-color: white;
+    width: 300px;
+    padding: 4px;
+    border-radius: 4px;
+    
+    
+}
+.addbtn{
+    background-color: rgba(210, 180, 140, 1);
+}
