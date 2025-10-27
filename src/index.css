@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .update{
 
     background-color: rgba(244, 243, 240, 1);
